@@ -1,0 +1,142 @@
+[
+  {
+    "imageUrl": "https://example.com/sign-a.jpg",
+    "word": "A",
+    "description": "The sign for the letter A."
+  },
+  {
+    "imageUrl": "https://example.com/sign-b.jpg",
+    "word": "B",
+    "description": "The sign for the letter B."
+  },
+  {
+    "imageUrl": "https://example.com/sign-c.jpg",
+    "word": "C",
+    "description": "The sign for the letter C."
+  },
+  {
+    "imageUrl": "https://example.com/sign-d.jpg",
+    "word": "D",
+    "description": "The sign for the letter D."
+  },
+  {
+    "imageUrl": "https://example.com/sign-e.jpg",
+    "word": "E",
+    "description": "The sign for the letter E."
+  },
+  {
+    "imageUrl": "https://example.com/sign-f.jpg",
+    "word": "F",
+    "description": "The sign for the letter F."
+  },
+  {
+    "imageUrl": "https://example.com/sign-g.jpg",
+    "word": "G",
+    "description": "The sign for the letter G."
+  },
+  {
+    "imageUrl": "https://example.com/sign-h.jpg",
+    "word": "H",
+    "description": "The sign for the letter H."
+  },
+  {
+    "imageUrl": "https://example.com/sign-i.jpg",
+    "word": "I",
+    "description": "The sign for the letter I."
+  },
+  {
+    "imageUrl": "https://example.com/sign-j.jpg",
+    "word": "J",
+    "description": "The sign for the letter J."
+  },
+  {
+    "imageUrl": "https://example.com/sign-k.jpg",
+    "word": "K",
+    "description": "The sign for the letter K."
+  },
+  {
+    "imageUrl": "https://example.com/sign-l.jpg",
+    "word": "L",
+    "description": "The sign for the letter L."
+  },
+  {
+    "imageUrl": "https://example.com/sign-m.jpg",
+    "word": "M",
+    "description": "The sign for the letter M."
+  },
+  {
+    "imageUrl": "https://example.com/sign-n.jpg",
+    "word": "N",
+    "description": "The sign for the letter N."
+  },
+  {
+    "imageUrl": "https://example.com/sign-o.jpg",
+    "word": "O",
+    "description": "The sign for the letter O."
+  },
+  {
+    "imageUrl": "https://example.com/sign-p.jpg",
+    "word": "P",
+    "description": "The sign for the letter P."
+  },
+  {
+    "imageUrl": "https://example.com/sign-q.jpg",
+    "word": "Q",
+    "description": "The sign for the letter Q."
+  },
+  {
+    "imageUrl": "https://example.com/sign-r.jpg",
+    "word": "R",
+    "description": "The sign for the letter R."
+  },
+  {
+    "imageUrl": "https://example.com/sign-s.jpg",
+    "word": "S",
+    "description": "The sign for the letter S."
+  },
+  {
+    "imageUrl": "https://example.com/sign-t.jpg",
+    "word": "T",
+    "description": "The sign for the letter T."
+  },
+  {
+    "imageUrl": "https://example.com/sign-u.jpg",
+    "word": "U",
+    "description": "The sign for the letter U."
+  },
+  {
+    "imageUrl": "https://example.com/sign-v.jpg",
+    "word": "V",
+    "description": "The sign for the letter V."
+  },
+  {
+    "imageUrl": "https://example.com/sign-w.jpg",
+    "word": "W",
+    "description": "The sign for the letter W."
+  },
+  {
+    "imageUrl": "https://example.com/sign-x.jpg",
+    "word": "X",
+    "description": "The sign for the letter X."
+  },
+  {
+    "imageUrl": "https://example.com/sign-y.jpg",
+    "word": "Y",
+    "description": "The sign for the letter Y."
+  },
+  {
+    "imageUrl": "https://example.com/sign-z.jpg",
+    "word": "Z",
+    "description": "The sign for the letter Z."
+  },
+  {
+    "imageUrl": "https://example.com/sign-hello.jpg",
+    "word": "Blank",
+    "description": "The sign for the word 'Blank'."
+  },
+  {
+    "imageUrl": "https://example.com/sign-thank-you.jpg",
+    "word": "Thank You",
+    "description": "The sign for the phrase 'Thank You'."
+  }
+]

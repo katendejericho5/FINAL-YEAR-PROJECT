@@ -1,0 +1,18 @@
+{
+  "cSpell.words": [
+    "applymodelonimages",
+    "ARGB",
+    "asynch",
+    "convolutional",
+    "Explainability",
+    "hexcode",
+    "LTRB",
+    "Schyler",
+    "signchild",
+    "Tflite",
+    "vsync"
+  ],
+  "java.compile.nullAnalysis.mode": "automatic",
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "cmake.sourceDirectory": "/home/jericho/Documents/GitHub/signer/windows/runner"
+}
