@@ -1,2 +1,2 @@
 # Group24-22
- This is  about final year project files
+This repository contains GROUP24-22 final year project --mobile application code,paper as well as the notebooks for the models
